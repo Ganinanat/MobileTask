@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\Mobile_Task\Mobile_Task\Mobile_Task\obj\Debug\netstandard2.0\Mobile_Task.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Mobile_Task\Mobile_Task\Mobile_Task\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Desktop\Mobile_Task\Mobile_Task\Mobile_Task\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Desktop\Mobile_Task\Mobile_Task\Mobile_Task\obj\Debug\netstandard2.0\Mobile_Task.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mobile_Task\Mobile_Task\Mobile_Task\obj\Debug\netstandard2.0\Mobile_Task.AssemblyInfo.cs
+C:\Users\User\Desktop\Mobile_Task\Mobile_Task\Mobile_Task\obj\Debug\netstandard2.0\Mobile_Task.csproj.CoreCompileInputs.cache
